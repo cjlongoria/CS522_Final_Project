@@ -1,4 +1,6 @@
-Example
+### Example Output:
+<br>
+
 ```
 (.venv) PS C:\Users\cjlongoria\Documents\College\CS522\Project> .\Code\data_stats.py .\EEC\Equity-Evaluation-Corpus\Equity-Evaluation-Corpus.csv
 --------------------------------------------------
