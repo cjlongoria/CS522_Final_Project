@@ -1,4 +1,5 @@
 .venv
+.gitignore
 EEC/
 Course Project CS-522.pdf
 Project Progress Report I Instructions.pdf
